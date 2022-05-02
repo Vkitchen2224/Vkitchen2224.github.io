@@ -1,4 +1,5 @@
-##Welcome to Victoria Kitchen's
+##Welcome to Victoria Kitchen's Page
+
 Where my coding projects are on display 
 
 
